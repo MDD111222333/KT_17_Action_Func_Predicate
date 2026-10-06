@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT_17_Action_Func_Predicate", "KT_17_Action_Func_Predicate\KT_17_Action_Func_Predicate.csproj", "{30B97599-CEAB-48F7-995F-3C0A49108039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B97599-CEAB-48F7-995F-3C0A49108039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B97599-CEAB-48F7-995F-3C0A49108039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B97599-CEAB-48F7-995F-3C0A49108039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B97599-CEAB-48F7-995F-3C0A49108039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2EA4A27-C932-4B61-AA42-2474899AF5F8}
+	EndGlobalSection
+EndGlobal
